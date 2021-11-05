@@ -1,0 +1,5 @@
+pen	bút
+car	ô tô
+dog	chó
+cat	mèo
+girl	cô gái
